@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "H2BjepRbTG2bwbbRzgy/LPsMVjh7j38Ci2Dr6XVu3Knr65TduWVcRmthockgcY7x/9dD3wLjqDMNtX4GvtJCTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chandan.Chatterjee\\Source\\Repos\\NeuTournament-API-May22\\src\\NeuTournament.Domain\\NeuTournament.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chandan.Chatterjee\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\Chandan.Chatterjee\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Chandan.Chatterjee\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Chandan.Chatterjee\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Chandan.Chatterjee\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Chandan.Chatterjee\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Chandan.Chatterjee\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
